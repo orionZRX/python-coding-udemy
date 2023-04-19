@@ -1,4 +1,6 @@
 a = 'A'
 b = 'B'
-c = 'C'
-print('Teste')
+c = 1.1
+formato = ''
+
+print(formato)
